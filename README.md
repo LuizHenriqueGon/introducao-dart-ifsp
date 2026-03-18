@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
   <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
   <img src="https://img.shields.io/badge/Status-Completo-green?style=for-the-badge" alt="Status: Completo.">
-  <img src="https://img.shields.io/badge/Projetos%20de%20Portf%C3%B3lio-1%20de%2025-8A2BE2?style=for-the-badge" alt="Meta: 1 de 25">
 </p>
 
 -----
